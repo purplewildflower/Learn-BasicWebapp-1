@@ -1,0 +1,33 @@
+body{
+    background:#499;
+    font-family: arial;
+}
+
+h1, h2, p, li{
+    color:#000;
+}
+
+a{
+    color: rgb(8, 0, 255);
+}
+
+p{
+    background:#666;
+    color:white;
+    padding:10px;
+}
+
+.secondary{
+    background: fuchsia;
+    color:rgb(46, 63, 17);
+    padding:10px;
+}
+
+#nav{
+    color:#000;
+}
+
+#special{
+    background:yellow;
+    color:black;
+}
